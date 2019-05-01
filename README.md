@@ -1,1 +1,1 @@
-# HS_SCA3
+# Hardware Security: Side-Channel Analysis Assignment 3
